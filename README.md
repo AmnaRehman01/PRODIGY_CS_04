@@ -1,1 +1,1 @@
-# PRODIGY_CS_04
+The Basic Keylogger Program is designed to capture and log keystrokes, providing a simple yet effective means of monitoring user interactions. The program records the keys pressed by the user and saves them into a file for further analysis.
